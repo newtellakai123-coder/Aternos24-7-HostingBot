@@ -8,7 +8,7 @@
   "server": {
     "ip": "AsiaSMPs.aternos.me",
     "port": 32319,
-    "version": "1.21.11 (127)",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
