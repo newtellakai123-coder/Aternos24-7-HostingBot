@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AsiaSMP-d61r.aternos.me:32319",
+    "ip": "AsiaSMPs.aternos.me",
     "port": 32319,
     "version": "1.21.11",
     "try-creative": false
