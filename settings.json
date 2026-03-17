@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "baboon.aternos.host:32319",
+    "port": 32319,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
